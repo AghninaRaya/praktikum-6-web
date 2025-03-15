@@ -1,0 +1,13 @@
+body {
+    background-color: #f59bef;
+  }
+  .card {
+    background-color: #a58df4;
+    max-width: 300px;
+    margin: auto;
+  }
+  button {
+    height: 50px;
+    font-size: 25px;
+  }
+  
